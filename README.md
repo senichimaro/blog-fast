@@ -29,3 +29,9 @@ The app is a CRUD basic interface of three screens where forms are reused to cre
   - Form: (flow control)
     1. Create (Empty form)
     2. Edit (Loaded data fields)
+
+###### Drawer AppBar
+1. styles & width
+2. state handlers
+3. icons & elements
+4. onChange handler in IconButton
